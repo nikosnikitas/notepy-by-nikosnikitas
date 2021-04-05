@@ -19,6 +19,6 @@ Assuming you have Python and pip installed and added to your PATH's Environment 
 - #### To run the application type:
  `python main.py`
 
-###Copyright 2021 &copy; nikosnikitas
+### Copyright &copy; 2021 nikosnikitas
 
 This project's source code is licensed under the [MIT License](LICENSE)
