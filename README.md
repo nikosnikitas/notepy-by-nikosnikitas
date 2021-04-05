@@ -19,3 +19,4 @@ Assuming you have Python and pip installed and added to your PATH's Environment 
 - #### To run the application type:
  `python main.py`
 
+Licensed under the [MIT License](LICENSE)
